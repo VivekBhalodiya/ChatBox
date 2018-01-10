@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526783335628",
+    "firebase_url": "https://chatbox-238fa.firebaseio.com",
+    "project_id": "chatbox-238fa",
+    "storage_bucket": "chatbox-238fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526783335628:android:4426722af20cfa04",
+        "android_client_info": {
+          "package_name": "com.example.vivekbhalodiya.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526783335628-3hp4t38bgpgcqhj96ptujdhagi69fhdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vivekbhalodiya.chatbox",
+            "certificate_hash": "8a23f009a34c4a67fed90f0ff4b998520674e019"
+          }
+        },
+        {
+          "client_id": "526783335628-40vsls7frkjt0aog12b89m5qtv9fceql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMRRmo-fJJ4TeMYK5DLsP5hFNCUuvX9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526783335628-40vsls7frkjt0aog12b89m5qtv9fceql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
