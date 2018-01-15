@@ -9,4 +9,6 @@ class ChatMessages(msgText :String,msgUser :String){
     var messageText = msgText
     var messageUser = msgUser
     var messageTime = Date().time
+
+    constructor() : this("Default","Default")
 }
